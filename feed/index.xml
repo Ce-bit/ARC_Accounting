@@ -8,21 +8,21 @@
 	>
 
 <channel>
-	<title>project_aries</title>
+	<title>ARC Accounting</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Just another WordPress site</description>
+	<description></description>
 	<lastBuildDate>Wed, 06 Jul 2022 19:50:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2022/09/ARC-150x150.png</url>
-	<title>project_aries</title>
+	<title>ARC Accounting</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
